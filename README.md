@@ -27,6 +27,7 @@ I build enterprise systems that turn manual, paper-based operations into **audit
 
 > **GarageOne ERP** — purpose-built automotive operations platform for NCG Holdings Group. Production-live, 2026.
 
+<div align="center">
 <table>
 <tr>
 <td align="center"><strong>550+</strong><br><sub>commits · 2.5 months</sub></td>
@@ -34,6 +35,8 @@ I build enterprise systems that turn manual, paper-based operations into **audit
 <td align="center"><strong>13</strong><br><sub>RBAC roles</sub></td>
 </tr>
 </table>
+<div align="center">
+
 
 **Core Architecture Decisions:**
 
