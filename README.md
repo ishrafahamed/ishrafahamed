@@ -26,7 +26,6 @@ I build enterprise systems that turn manual, paper-based operations into **audit
 <td align="center"><strong>550+</strong><br><sub>commits · 2.5 months</sub></td>
 <td align="center"><strong>12</strong><br><sub>production modules</sub></td>
 <td align="center"><strong>13</strong><br><sub>RBAC roles</sub></td>
-<td align="center"><strong>118</strong><br><sub>page architecture doc</sub></td>
 </tr>
 </table>
 
