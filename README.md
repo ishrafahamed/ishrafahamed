@@ -11,6 +11,16 @@
 ![Commits](https://img.shields.io/badge/550%2B%20Commits-1f6feb?style=flat-square&logoColor=white)
 ![Location](https://img.shields.io/badge/Colombo%2C%20LK-555?style=flat-square&logoColor=white)
 
+<div align="center">
+
+![Ishraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishrafahamed&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishrafahamed&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ishrafahamed&theme=github-dark&hide_border=true)
+
+</div>
+
 I build enterprise systems that turn manual, paper-based operations into **auditable, compliant, and data-driven platforms**. I work at the intersection of product ownership, system architecture, and business process transformation — shipping things that actually run in production.
 
 </div>
@@ -78,15 +88,5 @@ Languages       JavaScript · TypeScript · Python · PHP · Java · C#.NET · S
 Open to remote product management, CRM consulting, and automation architecture roles.
 
 · [LinkedIn](https://linkedin.com/in/ishraf-ahamed-6135b1266) · ishrafahmd@gmail.com
-
-</div>
-
-<div align="center">
-
-![Ishraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishrafahamed&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishrafahamed&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ishrafahamed&theme=github-dark&hide_border=true)
 
 </div>
